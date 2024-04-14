@@ -8,4 +8,6 @@
 3. [Index Analysis](https://github.com/Fernandogomezr/Experience-in-Financial-Markets/blob/main/Codes/Index%20Analysis.ipynb)
 
 4. [Indicador sector real](https://github.com/Fernandogomezr/Experience-in-Financial-Markets/blob/main/Codes/Indicadores%20Sector%20Real%20-SIE%20Banxico.ipynb)
+
+5. [Tablero Fred](https://github.com/Fernandogomezr/Experience-in-Financial-Markets/blob/main/Codes/Tablero%20FRED.ipynb)
   
