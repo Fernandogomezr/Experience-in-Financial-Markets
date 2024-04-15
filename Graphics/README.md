@@ -7,7 +7,7 @@
 
 2. [Indicadores del Sectior Real](https://fernandogomezr.github.io/Indicadores/ind_banxico.html)
 
-3. [Nam_3]
+3. [Variables Económicas](https://fernandogomezr.github.io/variables_eco/variables.html)
 
 4. [Name]
 
