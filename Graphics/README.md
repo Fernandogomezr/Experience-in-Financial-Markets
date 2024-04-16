@@ -1,13 +1,13 @@
-# Banxico's Graphics by fernando Gómez
+# Mastering Financial Markets with Python
 
 
-## Índice
+### Outline:
   
-1. [Gráficas Banxico 1](https://fernandogomezr.github.io/Experience-in-Financial-Markets/)
+1. [Mexico: Financial & Economic Indicators](https://fernandogomezr.github.io/Experience-in-Financial-Markets/)
 
-2. [Indicadores del Sectior Real](https://fernandogomezr.github.io/Indicadores/ind_banxico.html)
+2. [Mexico: Real Economy](https://fernandogomezr.github.io/Indicadores/ind_banxico.html)
 
-3. [Variables Económicas](https://fernandogomezr.github.io/variables_eco/variables.html)
+3. [US: Macrofinance](https://fernandogomezr.github.io/variables_eco/variables.html)
 
-4. [Balanza de Pagos](https://fernandogomezr.github.io/balanza_banxico/bpagos.html)
+4. [BoP, FDI and Holdings](https://fernandogomezr.github.io/balanza_banxico/bpagos.html)
 
